@@ -152,3 +152,39 @@ footer .foot-1 ul {
   margin: 8px;
   padding: 1rem 0 2.5rem 0;
 }
+
+.para2 {
+  color: var(--color-lightblack);
+  background-color: rgb(253, 253, 253);
+  border: 2px solid #fff;
+  line-height: 1.5rem;
+  margin-top: 30px;
+  font-weight: 500;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.year {
+  color: var(--color-black);
+  font-size: 1.5rem;
+  margin: 1.5rem 0 0 24px;
+  font-weight: 900;
+  background-color: var(--color-white);
+}
+
+.differ {
+  margin: 10px 0 50px 24px;
+  color: #272a31;
+  background-color: var(--color-white);
+}
+
+.sec2 {
+  background-color: #272a32;
+  background-image: url(/images/pattern_bg.png);
+  width: 100%;
+  color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  padding: 30px 20px;
+}
