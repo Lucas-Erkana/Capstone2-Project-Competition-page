@@ -15,7 +15,7 @@ This is made as Final Project (Capstone), of 1st Module at Microverse in order t
 
 
 ## Link to the live page
-
+https://lucash2022.github.io/Capstone-Project-Competition-page/
 
 
 ## Getting Started
