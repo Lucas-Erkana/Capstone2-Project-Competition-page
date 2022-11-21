@@ -287,3 +287,91 @@ footer .foot-last h3 small {
   font-size: 13px;
   color: var(--color-lightblack);
 }
+
+
+.about .about-sec1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 30px;
+}
+
+.about .about-sec1 p a {
+  display: block;
+}
+
+.about .about-sec1 p a b {
+  color: var(--color-black);
+}
+
+.about .about-sec1 .about-title {
+  color: var(--color-lightblack);
+  font-size: 35px;
+  padding-top: 30px;
+}
+
+.about .about-sec1 .logo img {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 8rem;
+  height: 5rem;
+  margin: 50px 0;
+}
+
+footer .foot-last h2 {
+  display: flex;
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  padding: 30px 0;
+}
+
+.about .about-sec1 .mini-about {
+  color: var(--color-lightblack);
+  font-size: 35px;
+  margin-top: 40px;
+}
+
+.about .about-sec1 .images-about {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  text-align: center;
+  gap: 24px;
+}
+
+.about .about-sec1 .images-about .img-about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: 350px;
+  align-self: center;
+}
+
+.about .about-sec1 .images-about .img-about h3 {
+  align-self: center;
+  color: var(--color-white);
+  font-size: 30px;
+}
+
+footer .foot-last h2 big {
+  display: flex;
+}
+
+.about .about-sec1 .images-about .img-about h3 big {
+  display: block;
+}
+
+.about .about-sec1 .images-about .img-about h3 small {
+  font-size: 19px;
+  font-weight: 800;
+}
