@@ -19,3 +19,41 @@ body {
   font-family: "Lato", sans-serif;
   font-size: 1.1rem;
 }
+
+a {
+  text-decoration: none;
+}
+
+li img {
+  width: 30%;
+  height: 30%;
+}
+
+.header {
+  width: 100%;
+  top: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: var(--color-white);
+  flex-direction: column;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.microo a {
+  color: var(--color-white);
+}
+
+.header .nav1 {
+  display: none;
+}
+
+.header .head-all .menu {
+  padding: 6px 14px 8px 14px;
+  margin-left: 8px;
+  font-size: 35px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  color: var(--color-lightblack);
+}
