@@ -272,3 +272,18 @@ footer .foot-last h3 {
 footer .foot-last h3 small {
   display: none;
 }
+
+.sec3 .speakers .guest section h3 {
+  align-self: flex-start;
+}
+
+.sec3 .speakers .guest section .p1 {
+  width: 100%;
+  font-size: 15px;
+  color: var(--color-secondaryDeep);
+}
+
+.sec3 .speakers .guest section .p2 {
+  font-size: 13px;
+  color: var(--color-lightblack);
+}
