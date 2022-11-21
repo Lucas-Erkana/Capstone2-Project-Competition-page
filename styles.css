@@ -1,3 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+:root {
+  --color-white: #fff;
+  --color-secondary: #ec5242;
+  --color-secondaryDeep: #e2220c;
+  --color-lightblack: #272a31;
+  --color-lightgrey: #d3d3d3;
+  --color-black: #000;
+}
+
 body {
-  background: red;
+  width: 100%;
+  font-family: "Lato", sans-serif;
+  font-size: 1.1rem;
 }
