@@ -188,3 +188,87 @@ footer .foot-1 ul {
   flex-direction: column;
   padding: 30px 20px;
 }
+
+.list {
+  padding: 18px 8px 18px 14px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 12px;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.list i {
+  font-size: 30px;
+}
+
+.list-header {
+  color: var(--color-secondary);
+  flex: 2;
+}
+
+.list-para {
+  width: 100%;
+  flex: 5;
+  line-height: 1.5rem;
+}
+
+.join {
+  background-color: var(--color-secondary);
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.6rem;
+}
+
+.join h3 {
+  color: var(--color-white);
+  font-size: 16px;
+  word-spacing: 0.2rem;
+  padding: 24px;
+}
+
+.sec3 {
+  padding: 25px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sec3 .speakers {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.sec3 .speakers .guest {
+  display: flex;
+  -moz-column-gap: 16px;
+  column-gap: 16px;
+}
+
+.sec3 .speakers .guest section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+footer .foot-last h3 {
+  font-weight: lighter;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  padding: 30px 0;
+}
+
+footer .foot-last h3 small {
+  display: none;
+}
