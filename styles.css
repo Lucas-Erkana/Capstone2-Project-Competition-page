@@ -72,3 +72,36 @@ footer .foot-1 ul {
 .header .head-all ul {
   display: none;
 }
+
+.menu-sec {
+  display: none;
+  flex-direction: row;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  gap: 4px;
+  background-color: var(--color-lightblack);
+  -webkit-animation-name: menudisplay;
+  animation-name: menuDisplay;
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+}
+
+.menu-sec nav {
+  padding-top: 70px;
+  padding-left: 25px;
+}
+
+.menu-sec a h2 {
+  padding: 14px 10px;
+  color: var(--color-lightgrey);
+}
+
+.menu-sec .cancel {
+  padding-right: 14px;
+  font-size: 50px;
+  color: var(--color-lightgrey);
+}
