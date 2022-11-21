@@ -58,7 +58,6 @@ li img {
   color: var(--color-lightblack);
 }
 
-
 footer .foot-1 ul {
   width: 100%;
   display: flex;
@@ -189,6 +188,31 @@ footer .foot-1 ul {
   padding: 30px 20px;
 }
 
+.sec2 .parr {
+  display: none;
+}
+
+.sec-2-title {
+  align-self: center;
+  font-size: 35px;
+}
+
+.line {
+  width: 2rem;
+  height: 1px;
+  align-self: center;
+  margin-top: 10px;
+  border: 1px solid var(--color-secondaryDeep);
+}
+
+.program {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-top: 1.6rem;
+}
+
 .list {
   padding: 18px 8px 18px 14px;
   display: flex;
@@ -288,7 +312,6 @@ footer .foot-last h3 small {
   color: var(--color-lightblack);
 }
 
-
 .about .about-sec1 {
   display: flex;
   flex-direction: column;
@@ -374,4 +397,82 @@ footer .foot-last h2 big {
 .about .about-sec1 .images-about .img-about h3 small {
   font-size: 19px;
   font-weight: 800;
+}
+
+.one {
+  background: linear-gradient(rgba(226, 34, 12, 0.5), rgba(226, 34, 12, 0.5)), url(./images/photo2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.two {
+  background: linear-gradient(rgba(226, 34, 12, 0.5), rgba(226, 34, 12, 0.5)), url(./images/photo1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.three {
+  background: linear-gradient(rgba(226, 34, 12, 0.5), rgba(226, 34, 12, 0.5)), url(./images/photo3.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+footer {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+footer .footer-close {
+  display: flex;
+}
+
+footer .foot-1 {
+  padding: 24px 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--color-lightblack);
+  color: rgb(148, 145, 145);
+}
+
+footer .foot-1 ul li {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .foot-1 ul li i {
+  font-size: 30px;
+  padding: 10px;
+}
+
+footer .foot-last {
+  background-color: var(--color-white);
+  width: 100%;
+  color: #272a31;
+  display: flex;
+  flex-direction: row;
+  padding: 40px 10px;
+  gap: 24px;
+}
+
+footer .foot-last h2 span {
+  width: 35px;
+  height: 35px;
+  border: 3px solid black;
+  border-radius: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  font-size: 18px;
+  padding-bottom: 1px;
 }
