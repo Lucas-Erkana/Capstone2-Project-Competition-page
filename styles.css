@@ -507,5 +507,73 @@ footer .foot-last h2 span {
     padding: 30px;
   }
 
+  .header .nav1 ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 8px;
+    color: var(--color-white);
+  }
+
+  .header .menu {
+    display: none !important;
+  }
+
+  .header .head-all {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(254, 254, 255);
+  }
+
+  .header .head-all ul {
+    padding: 0.3rem 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-right: 10%;
+    justify-content: space-between;
+  }
+
+  .header .head-all ul .logo-img {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer .foot-1 ul li {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+  }
+
+  .header .head-all ul li {
+    font-size: 15px;
+    padding: 0.6rem;
+  }
+
+  .header .head-all ul li img {
+    width: 6rem;
+    height: 2.3rem;
+  }
+
+  footer .foot-last h2 {
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    padding: 30px 0;
+  }
+
+  footer .last-abt h2 span {
+    border: 3px solid var(--color-white);
+  }
+
   
 }
