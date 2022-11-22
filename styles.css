@@ -906,4 +906,40 @@ footer .foot-last h2 span {
     word-spacing: 0.2rem;
     letter-spacing: 1px;
   }
+
+  footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+  }
+
+  footer .footer-close {
+    display: none !important;
+  }
+
+  footer .foot-1 {
+    padding: 24px 15%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--color-lightblack);
+    color: rgb(148, 145, 145);
+  }
+
+  footer .foot-1 ul li i {
+    font-size: 30px;
+    padding: 10px;
+  }
+
+  footer .foot-last {
+    background-color: var(--color-white);
+    color: var(--color-lightblack);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 40px 15%;
+    justify-content: space-between;
+  }
 }
