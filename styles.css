@@ -942,4 +942,23 @@ footer .foot-last h2 span {
     padding: 40px 15%;
     justify-content: space-between;
   }
+
+  footer .foot-last h2 span {
+    width: 50px;
+    height: 50px;
+    border: 3px solid var(--color-white);
+    border-radius: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    font-size: 28px;
+    padding-bottom: 1px;
+  }
+
+  footer .last-abt {
+    background-color: var(--color-lightblack);
+  }
+
 }
