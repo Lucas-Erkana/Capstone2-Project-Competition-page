@@ -12,6 +12,9 @@ This is made as Final Project (Capstone), of 1st Module at Microverse in order t
 -Deploy the project
 
 # Project Screenshot image
+Mobile Screenshot image
+
+.images/Mobile_screenshot.jpg
 
 
 ## Link to the live page
