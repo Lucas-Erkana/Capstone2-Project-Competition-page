@@ -13,7 +13,7 @@ This is made as Final Project (Capstone), of 1st Module at Microverse in order t
 
 # Project Screenshot image
 ![Mobile version](./images/Mobile_screenshot.jpg)
-
+![Desktop version](./images/Desktop_screenshot.jpg)
 
 ## Link to the live page
 
