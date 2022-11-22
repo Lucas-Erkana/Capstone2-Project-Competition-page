@@ -476,3 +476,36 @@ footer .foot-last h2 span {
   font-size: 18px;
   padding-bottom: 1px;
 }
+
+@media screen and (min-width: 768px) {
+  .header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    z-index: 10;
+  }
+
+  .header .nav1 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-left: 60%;
+    padding-right: 10%;
+    background-color: rgb(65, 64, 64);
+  }
+
+  footer .foot-1 ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    padding: 30px;
+  }
+
+  
+}
