@@ -12,9 +12,7 @@ This is made as Final Project (Capstone), of 1st Module at Microverse in order t
 -Deploy the project
 
 # Project Screenshot image
-Mobile Screenshot image
-
-.images/Mobile_screenshot.jpg
+![Mobile version](./images/Mobile_screenshot.jpg)
 
 
 ## Link to the live page
@@ -27,7 +25,7 @@ Mobile Screenshot image
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone <link to repository>
+- On the terminal run this command git clone https://github.com/Lucash2022/Capstone-Project-Competition-page.git
 
 - Go to the repository folder using command prompt cd LucasErkanaPortfolio_Website.
 
