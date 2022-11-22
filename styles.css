@@ -159,7 +159,7 @@ footer .foot-1 ul {
   line-height: 1.5rem;
   margin-top: 30px;
   font-weight: 500;
-  padding: 2rem;
+  padding: 1rem;
   display: flex;
   align-items: center;
 }
@@ -608,7 +608,7 @@ footer .foot-last h2 span {
   }
 
   .main-title {
-    width: 60%;
+    width: 80%;
     color: var(--color-secondaryDeep);
     font-weight: 900;
     font-size: 4.5rem;
