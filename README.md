@@ -90,6 +90,7 @@ The main objective is to develop a professional website which showcase my profes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -104,14 +105,20 @@ The main objective is to develop a professional website which showcase my profes
 
 - Install the dev dependencies for linters run npm install.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Prerequisites
 
 In order to run this project you need:
 
 -Google chrome
+
 -Internet Explorer
+
 -Any broswer
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
 
@@ -126,6 +133,8 @@ Clone this repository to your desired folder:
 - Install the dev dependencies for linters run npm install.
 --->
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Author -->
 
