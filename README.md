@@ -1,21 +1,24 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Capstone-Project:Programming Competition-page
-This project is about a Programming competition which was held in Windhoek, Namibai at the Namibian Univeristy of Science and Technology.
-The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition. There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
-This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities. The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
 
-## In the first milestone the Capstone website, you will:
--Choose the topic for your website.(NUST Programming Competition)
--Choose images, text, icons, fonts (we suggest using Lato as it is a free font similar to the one used in the original design).
--Create the 2 pages for mobile.
--Deploy the project
+## Capstone-Project: Programming Competion-page
+
+This project is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
+The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition.
+There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
+This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities.
+The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
+
+
+[Loom Video Presentation](https://www.loom.com/share/d944d03df6ae4517b6de41aefbb00da7)
 
 # Project Screenshot image
-
+![Mobile version](./images/Mobile_screenshot.jpg)
+![Desktop version](./images/Desktop_screenshot.jpg)
 
 ## Link to the live page
-https://lucash2022.github.io/Capstone-Project-Competition-page/
+
+ [NUST Programming Competition link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
 
 
 ## Getting Started
@@ -24,7 +27,7 @@ https://lucash2022.github.io/Capstone-Project-Competition-page/
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone <link to repository>
+- On the terminal run this command git clone https://github.com/Lucash2022/Capstone-Project-Competition-page.git
 
 - Go to the repository folder using command prompt cd LucasErkanaPortfolio_Website.
 
