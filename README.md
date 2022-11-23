@@ -63,8 +63,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Capstone-Project: Programming Competion-page <a name="about-project"></a>
 
- [NUST Programming Competition link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
-
 **[Capstone-Project: Programming Competion-page]** is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
 The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition.
 There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
@@ -85,7 +83,7 @@ The main objective is to develop a professional website which showcase my profes
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
+[NUST Programming Competition link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
