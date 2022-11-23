@@ -151,9 +151,9 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-- [Implement some UX improvements: add the "More" button on the home page, include transitions and/or animation ] **[new_feature_1]**
-- [Implement additional pages, like the tickets page and the schedule page. Make sure that you have a decent mobile design for them] **[new_feature_2]**
+- Implement some UX improvements: add the "More" button on the home page, include transitions and/or animation
+
+- Implement additional pages, like the tickets page and the schedule page. Make sure that you have a decent mobile design for them
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +180,9 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the Amazing Design Template.
+
 [Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
+
 I would like to thank Alex Ogeto[@alex_ogeto](https://github.com/Osoro254Alex)
 
 
