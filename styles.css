@@ -469,8 +469,8 @@ footer .foot-last {
 }
 
 footer .foot-last h2 span {
-  width: 35px;
-  height: 35px;
+  width: 69px;
+  height: 59px;
   border: 3px solid black;
   border-radius: 90px;
   display: flex;
@@ -478,7 +478,7 @@ footer .foot-last h2 span {
   justify-content: center;
   text-align: center;
   align-self: center;
-  font-size: 18px;
+  font-size: 20px;
   padding-bottom: 1px;
 }
 
@@ -669,9 +669,9 @@ footer .foot-last h2 span {
     }
   }
 
-  footer .last-abt h2 span {
+  /* footer .last-abt h2 span {
     border: 3px solid var(--color-white);
-  }
+  } */
 
   .para1 {
     color: var(--color-secondary);
@@ -755,7 +755,7 @@ footer .foot-last h2 span {
   }
 
   .list {
-    height: 100%;
+    height: 339px;
     padding: 18px 8px 18px 14px;
     display: flex;
     flex-direction: column;
@@ -999,11 +999,11 @@ footer .foot-last h2 span {
     padding: 40px 15%;
     justify-content: space-between;
   }
-
+/* footer */
   footer .foot-last h2 span {
-    width: 50px;
-    height: 50px;
-    border: 3px solid var(--color-white);
+    width: 69px;
+    height: 65px;
+    border: 3px solid black;
     border-radius: 90px;
     display: flex;
     align-items: center;

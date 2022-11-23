@@ -21,7 +21,7 @@ const guests = [
   {
     Name: 'Prof. Anicia Peters',
     Title: 'Pro-vice-chancellor for Research, Innovation and Development and an associate professor at the University of Namibia.',
-    Desciption: ' Anicia Peters is a Namibian computer scientist specializing in human–computer interaction (HCI). She is the pro-vice-chancellor for Research, Innovation and Development and an associate professor at the University of Namibia. Previously, she was the dean of the Faculty of Computing and Informatics (FCI) and an associate professor in computer science at the Namibia University of Science and Technology (NUST).',
+    Desciption: ' Anicia Peters is a Namibian computer scientist specializing in human–computer interaction (HCI).',
     Img: './images/Prof-Anicia-Peters.jpg',
     Alt: 'Prof-Anicia-Peters.jpg',
   },
@@ -45,7 +45,7 @@ const guests = [
   {
     Name: 'Prof. Guy-Alain Lusilao Zodi',
     Title: 'Associate Dean DEPARTMENT:Computer Science',
-    Desciption: 'PhD. Eng. (UCT), MSc. Comp. Sci. (Stell.), Post.Dipl. (AIMS-SA), BSc., (Hons) Univ. Kinshasa. Winner of NSTF-BHP Billiton /South-Africa in the team category for a research leading to innovation in video broadcasting over low bandwidth networks , 2014.',
+    Desciption: 'PhD. Eng. (UCT), MSc. Comp. Sci. (Stell.), Post.Dipl. (AIMS-SA), BSc., (Hons) Univ. Kinshasa.',
     Img: './images/Prof-Lusilao-Zodi.jpg',
     Alt: 'Prof-Lusilao-Zodi.jpg',
   },
