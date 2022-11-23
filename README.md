@@ -1,25 +1,83 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-Capstone-Project:Programming Competition-page
-This project is about a Programming competition which was held in Windhoek, Namibai at the Namibian Univeristy of Science and Technology.
-The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition. There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
-This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities. The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-## In the first milestone the Capstone website, you will:
--Choose the topic for your website.(NUST Programming Competition)
--Choose images, text, icons, fonts (we suggest using Lato as it is a free font similar to the one used in the original design).
--Create the 2 pages for mobile.
--Deploy the project
+Modify this file to match your project and remove sections that don't apply.
 
-# Project Screenshot image
-![Mobile version](./images/Mobile_screenshot.jpg)
-![Desktop version](./images/Desktop_screenshot.jpg)
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-## Link to the live page
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Capstone-Project: Programming Competion-page] <a name="about-project"></a>
 
 
+**[Capstone-Project: Programming Competion-page]** is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
+The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition.
+There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
+This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities.
+The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
 
-## Getting Started
+[Loom Video Presentation](https://www.loom.com/share/d944d03df6ae4517b6de41aefbb00da7)
+
+## 🛠 Built With <a name="built-with"></a>
+    HTML
+    CSS
+    Javascript
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 - Create a local directory that you want to clone the repository.
 
@@ -31,33 +89,87 @@ This is made as Final Project (Capstone), of 1st Module at Microverse in order t
 
 - Install the dev dependencies for linters run npm install.
 
-## Built with
+### Prerequisites
 
-- HTML, CSS & JAVASCRIPT 
+In order to run this project you need:
 
-## Authors
+-Google chrome
+-Internet Explorer
+-Any broswer
 
-👤 **Lucas Erkana**
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone https://github.com/Lucash2022/Capstone-Project-Competition-page.git
+
+- Go to the repository folder using command prompt cd LucasErkanaPortfolio_Website.
+
+- Install the dev dependencies for linters run npm install.
+--->
+
+
+<!-- Author -->
+
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/Lucash2022)
 - Twitter: [@twitterhandle](https://twitter.com/@Lucas_David_22)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
 
-## Collaborators
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
 
+> Describe 1 - 3 features you will add to the project.
+- [Implement some UX improvements: add the "More" button on the home page, include transitions and/or animation ] **[new_feature_1]**
+- [Implement additional pages, like the tickets page and the schedule page. Make sure that you have a decent mobile design for them] **[new_feature_2]**
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Lucash2022/Capstone-Project-Competition-page/issues/2).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+[Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the Amazing Design Template.
+[Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
+I would like to thank Alex Ogeto[@alex_ogeto](https://github.com/Osoro254Alex)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-## 📝 License
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
