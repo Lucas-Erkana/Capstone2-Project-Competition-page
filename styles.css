@@ -197,6 +197,11 @@ footer .foot-1 ul {
   font-size: 35px;
 }
 
+.sec3 .speakers .guest img {
+  width: 7rem;
+  height: 9rem;
+}
+
 .line {
   width: 2rem;
   height: 1px;
@@ -820,7 +825,7 @@ footer .foot-last h2 span {
   }
 
   .sec3 .speakers .guest img {
-    width: 50%;
+    width: 7rem;
     height: 9rem;
   }
 
