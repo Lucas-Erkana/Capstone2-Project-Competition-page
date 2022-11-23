@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<<<<<<< HEAD
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -62,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Capstone-Project: Programming Competion-page] <a name="about-project"></a>
+# 📖 Capstone-Project: Programming Competion-page <a name="about-project"></a>
 
  [NUST Programming Competition link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
 
