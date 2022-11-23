@@ -1,12 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-##Capstone-Project:Programming Competition-page
+
+## Capstone-Project: Programming Competion-page
 
 This project is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
 The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition.
 There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
 This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities.
 The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
+
+
 [Loom Video Presentation](https://www.loom.com/share/d944d03df6ae4517b6de41aefbb00da7)
 
 # Project Screenshot image
@@ -14,6 +17,7 @@ The main objective is to develop a professional website which showcase my profes
 ![Desktop version](./images/Desktop_screenshot.jpg)
 
 ## Link to the live page
+
  [NUST Programming Competition link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
 
 
