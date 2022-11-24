@@ -169,13 +169,11 @@ footer .foot-1 ul {
   font-size: 1.5rem;
   margin: 1.5rem 0 0 24px;
   font-weight: 900;
-  background-color: var(--color-white);
 }
 
 .differ {
   margin: 10px 0 50px 24px;
   color: #272a31;
-  background-color: var(--color-white);
 }
 
 .sec2 {
