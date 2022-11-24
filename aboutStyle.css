@@ -68,6 +68,18 @@ footer .foot-1 ul {
   padding: 30px;
 }
 
+.sub-about {
+  background: linear-gradient(rgba(245, 244, 244, 0.9882352941), rgba(254, 255, 255, 0.9)), url(./images/background-image2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 .header .head-all ul {
   display: none;
 }
@@ -155,9 +167,9 @@ footer .foot-1 ul {
 .para2 {
   color: var(--color-lightblack);
   background-color: rgb(253, 253, 253);
-  border: 2px solid #fff;
+  border: 2px solid var(--color-lightgrey);
   line-height: 1.5rem;
-  margin-top: 30px;
+  margin: 60px 20px;
   font-weight: 500;
   padding: 1rem;
   display: flex;
@@ -684,9 +696,9 @@ footer .foot-last h2 span {
   .para2 {
     color: var(--color-lightblack);
     background-color: rgb(255, 255, 255);
-    border: 2px solid rgb(240, 242, 223);
+    border: 2px solid var(--color-lightgrey);
     line-height: 1.5rem;
-    margin: 3rem 0;
+    margin: 3rem 100px;
     font-weight: 500;
   }
 
