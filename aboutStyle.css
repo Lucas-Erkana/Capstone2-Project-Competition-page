@@ -176,6 +176,17 @@ footer .foot-1 ul {
   align-items: center;
 }
 
+.para3 {
+  color: var(--color-lightblack);
+  background-color: rgb(253, 253, 253);
+  line-height: 1.5rem;
+  margin: 17px 20px;
+  font-weight: 500;
+  padding: -3rem;
+  display: flex;
+  align-items: center;
+}
+
 .year {
   color: var(--color-black);
   font-size: 1.5rem;
@@ -215,11 +226,11 @@ footer .foot-1 ul {
 }
 
 .line {
-  width: 2rem;
+  width: 3rem;
   height: 1px;
   align-self: center;
-  margin-top: 10px;
-  border: 1px solid var(--color-secondaryDeep);
+  margin-top: -42px;
+  border: 2px solid var(--color-secondaryDeep);
 }
 
 .program {
@@ -750,11 +761,11 @@ footer .foot-last h2 span {
   }
 
   .line {
-    width: 2rem;
+    width: 3rem;
     height: 1px;
     align-self: center;
-    margin-top: 10px;
-    border: 1px solid var(--color-secondaryDeep);
+    margin-top: -47px;
+    border: 2px solid var(--color-secondaryDeep);
   }
 
   .program {
@@ -910,7 +921,7 @@ footer .foot-last h2 span {
 
   .about .about-sec1 .about-title {
     color: var(--color-lightblack);
-    font-size: 50px;
+    font-size: 40px;
     padding: 7rem 0 3rem 0;
   }
 
