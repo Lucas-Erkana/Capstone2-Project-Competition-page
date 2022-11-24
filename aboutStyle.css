@@ -360,6 +360,8 @@ footer .foot-last h3 small {
   width: 8rem;
   height: 5rem;
   margin: 50px 0;
+  border: 2px solid var(--color-lightgrey);
+  padding: 30px 30px;
 }
 
 footer .foot-last h2 {
@@ -841,8 +843,8 @@ footer .foot-last h2 span {
   }
 
   .about .about-sec1 .logo img {
-    width: 15rem;
-    height: 7rem;
+    width: 36rem;
+    height: 16rem;
   }
 
   .sec3 .speakers .guest img:hover {
@@ -920,6 +922,7 @@ footer .foot-last h2 span {
     text-align: center;
     width: 100%;
     margin: 5rem 0 6.5rem 0;
+    
   }
 
   .about .about-sec1 .mini-about {
