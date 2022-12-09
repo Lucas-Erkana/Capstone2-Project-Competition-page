@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Capstone-Project: Programming Competion-page <a name="about-project"></a>
 
-**[Capstone-Project: Programming Competion-page]** is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
+**Capstone-Project: Programming Competion-page** is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
 The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition.
 There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
 This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities.
